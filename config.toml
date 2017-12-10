@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "../almostadatascientist.github.io/"
 author = "Jean Souza"
 title = "A Data Science Odyssey"
-disqusshortname = ""
+disqusshortname = "almostadatascientist"
 pluralizelisttitles = false
 
 [permalinks]
